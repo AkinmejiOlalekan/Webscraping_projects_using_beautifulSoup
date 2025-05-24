@@ -3,7 +3,7 @@
 This repository contains two independent Python web scraping projects:
 
 1. Scraping the **List of Largest U.S. Companies by Revenue** from Wikipedia using **Beautiful Soup**.
-2. Scraping **Flight Ticket Prices** from a flight booking website to analyze travel costs.
+2. Scraping **Flight Ticket Prices** from a flight booking website to analyse travel costs.
 
 Both projects demonstrate fundamental web scraping techniques using `requests`, `BeautifulSoup`, and optional data storage with `pandas`.
 
@@ -18,7 +18,7 @@ Webscraping_projects_using_beautifulSoup/
 │
 ├── Wikipedia_site_scraping.ipynb
 │
-└── README.md ← You are here
+└── README.md
 ```
 
 ---
